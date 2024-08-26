@@ -27,3 +27,25 @@ li {
     font-weight: weight;
     font-style: normal;
 }
+
+h2 {
+    color: black;
+    font-size: 50px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+p {
+    color: black;
+    font-size: 25px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+footer {
+    background-color: goldenrod;
+}
